@@ -1,0 +1,41 @@
+.top-icons {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.top-icons-addr {
+    width: 12px;
+    height: 16px;
+    background-position: -5px -5px;
+}
+
+.top-icons-fireline {
+    width: 15px;
+    height: 15px;
+    background-position: -27px -5px;
+}
+
+.top-icons-mail {
+    width: 19px;
+    height: 13px;
+    background-position: -52px -5px;
+}
+
+.top-icons-pricingicon {
+    width: 33px;
+    height: 33px;
+    background-position: -27px -30px;
+}
+
+.top-icons-settingsicon {
+    width: 36px;
+    height: 33px;
+    background-position: -81px -5px;
+}
+
+.top-icons-tel {
+    width: 16px;
+    height: 16px;
+    background-position: -70px -48px;
+}
